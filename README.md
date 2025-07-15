@@ -7,7 +7,7 @@
 
 
 
-** Ahora creé una lista de super mercado **
+**Ahora creé una lista de super mercado, cambié los asteriscos.**
 - Jabón
 - Aceite
 - Pañales
